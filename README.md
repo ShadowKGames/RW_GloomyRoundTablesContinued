@@ -3,8 +3,8 @@ Update of Round table + GloomyFurniture for Rimworld 1.1
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
 
-direct download link: https://github.com/ShadowKGames/RW_GloomyRoundTablesContinued
-steam link:
+Direct download link: https://github.com/ShadowKGames/RW_GloomyRoundTablesContinued
+Steam link: https://steamcommunity.com/sharedfiles/filedetails/?id=2090973346
 
 Link to non-gloomy round tables: https://steamcommunity.com/sharedfiles/filedetails/?id=2089610981
 
