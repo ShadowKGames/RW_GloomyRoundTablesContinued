@@ -3,9 +3,10 @@ Update of Round table + GloomyFurniture for Rimworld 1.1
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
 
-download link: https://github.com/ShadowKGames/RW_GloomyRoundTablesContinued
+direct download link: https://github.com/ShadowKGames/RW_GloomyRoundTablesContinued
+steam link:
 
-steam link for this 1.1 version: 
+Link to non-gloomy round tables: https://steamcommunity.com/sharedfiles/filedetails/?id=2089610981
 
 Darkadan had added the GloomyFurniture texture to sulusdacor's Round Tables.
 
